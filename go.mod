@@ -1,4 +1,4 @@
-module StrUtils
+module github.com/Druidis4e/strUtils
 
 go 1.16
 

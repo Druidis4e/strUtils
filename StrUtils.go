@@ -5,5 +5,5 @@ import (
 )
 
 func StrUtils() {
-	myLib.DoSomething(true)
+	myLib.DoSomething(0,1)
 }

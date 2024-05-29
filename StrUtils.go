@@ -1,9 +1,9 @@
 package StrUtils
 
 import (
-	"github.com/IamDruid84/myLib"
+	"github.com/Druidis4e/myLib"
 )
 
 func StrUtils() {
-	myLib.DoSomething(true)
+	myLib.DoSomething(1)
 }

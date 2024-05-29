@@ -1,7 +1,7 @@
 package StrUtils
 
 import (
-	"github.com/Druidis4e/myLib"
+	"github.com/IamDruid84/myLib"
 )
 
 func StrUtils() {

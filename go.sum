@@ -1,7 +1,5 @@
-github.com/Druidis4e/myLib v1.0.2 h1:QtuekVKLm+VgXVamjFOIFk8YQV2RIdveURmjgI7tDDQ=
-github.com/Druidis4e/myLib v1.0.2/go.mod h1:pvA3oPVkgGukLraXDunL3T5GlWmOlaHhWtouQYqcYX0=
-github.com/Druidis4e/myLib v1.0.4 h1:/bvAkNPOuOf+KAJocRiTyyhAlXrO3GWNsjTql5w1Es4=
-github.com/Druidis4e/myLib v1.0.4/go.mod h1:pvA3oPVkgGukLraXDunL3T5GlWmOlaHhWtouQYqcYX0=
+github.com/IamDruid84/mainRepo v1.0.3 h1:XKatjmBp+CUyrnUTOKPZPSLTflpXdu8Qi5kK4j7fnpU=
+github.com/IamDruid84/mainRepo v1.0.3/go.mod h1:XO646Q7qrQ72OSINiXHSu7R8GjP/05V+tlbJalc0N9g=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=

@@ -1,9 +1,14 @@
 package StrUtils
 
 import (
-	"github.com/Druidis4e/myLib"
+	myLib "github.com/IamDruid84/mainRepo"
+	"fmt"
 )
 
 func StrUtils() {
-	myLib.DoSomething(1)
+	myLib.DoSomething(0,1)
+}
+
+func StrUtilsSelf() {
+	fmt.Println("strutilsSelf")
 }
